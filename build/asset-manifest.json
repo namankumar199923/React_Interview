@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/namankumar199923/React_Interview.git/static/css/main.d88b4ce1.chunk.css",
+    "main.js": "/namankumar199923/React_Interview.git/static/js/main.7b612c27.chunk.js",
+    "main.js.map": "/namankumar199923/React_Interview.git/static/js/main.7b612c27.chunk.js.map",
+    "runtime-main.js": "/namankumar199923/React_Interview.git/static/js/runtime-main.4a163f78.js",
+    "runtime-main.js.map": "/namankumar199923/React_Interview.git/static/js/runtime-main.4a163f78.js.map",
+    "static/js/2.18d445b9.chunk.js": "/namankumar199923/React_Interview.git/static/js/2.18d445b9.chunk.js",
+    "static/js/2.18d445b9.chunk.js.map": "/namankumar199923/React_Interview.git/static/js/2.18d445b9.chunk.js.map",
+    "static/js/3.2a74f6f3.chunk.js": "/namankumar199923/React_Interview.git/static/js/3.2a74f6f3.chunk.js",
+    "static/js/3.2a74f6f3.chunk.js.map": "/namankumar199923/React_Interview.git/static/js/3.2a74f6f3.chunk.js.map",
+    "index.html": "/namankumar199923/React_Interview.git/index.html",
+    "static/css/main.d88b4ce1.chunk.css.map": "/namankumar199923/React_Interview.git/static/css/main.d88b4ce1.chunk.css.map",
+    "static/js/2.18d445b9.chunk.js.LICENSE.txt": "/namankumar199923/React_Interview.git/static/js/2.18d445b9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/namankumar199923/React_Interview.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a163f78.js",
+    "static/js/2.18d445b9.chunk.js",
+    "static/css/main.d88b4ce1.chunk.css",
+    "static/js/main.7b612c27.chunk.js"
+  ]
+}
